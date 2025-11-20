@@ -1,0 +1,17 @@
+body {
+            background: #f2f4f7;
+        }
+
+        .card {
+            background: #fff;
+        }
+
+        .correct {
+            color: green;
+            font-weight: bold;
+        }
+
+        .wrong {
+            color: red;
+            font-weight: bold;
+        }
